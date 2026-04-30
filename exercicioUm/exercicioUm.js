@@ -8,3 +8,5 @@ console.log("Sexo: " + (sexo ? "Feminino" : "Masculino"));
 console.log("Tipo de dado de nome: " + typeof nome);
 console.log("Tipo de dado de idade: " + typeof idade);
 console.log("Tipo de dado de sexo: " + typeof sexo);
+ 
+
